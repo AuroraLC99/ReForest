@@ -1,0 +1,15 @@
+{
+  "name": "pfmPrueba",
+  "label": "pfmPrueba",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Diego Labrado Infante",
+  "description": "Este widget contiene todo lo necesario para empezar a crear un widget desde cero",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
